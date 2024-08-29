@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Irsyad, I am a graduted student from Electronics and Instrumentation Gadjah Mada University. 
 <!--
 **irsyadnrzn/irsyadnrzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
