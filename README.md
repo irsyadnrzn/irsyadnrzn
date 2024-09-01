@@ -1,5 +1,12 @@
 ## Hi there 👋
 My name is Irsyad, I am a graduted student from Electronics and Instrumentation Gadjah Mada University. 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <!--
 **irsyadnrzn/irsyadnrzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
