@@ -1,9 +1,10 @@
 ## Hi there 👋
 My name is Irsyad, I am a graduted student from Electronics and Instrumentation Gadjah Mada University. 
 
+## Languages And Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=cpp,git,opencv,py,sklearn,tensorflow,vscode,pytorch" />
   </a>
 </p>
 
