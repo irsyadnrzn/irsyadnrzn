@@ -4,7 +4,7 @@ My name is Irsyad, I am a graduted student from Electronics and Instrumentation 
 ## Languages And Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,git,opencv,py,sklearn,tensorflow,vscode,pytorch" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,postgres,opencv,sklearn,tensorflow,pytorch,vscode,git" />
   </a>
 </p>
 
