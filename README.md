@@ -12,7 +12,7 @@
   
  🌱 I’m currently learning **MLOps** and **GenerativeAI** to pursue my career on **AI Engineer**
 
- 💪 I'm currently working on personal project developing **facial exspression recognition system**
+ 💪 I'm currently working on personal project developing **facial expression recognition system**
 
  ⚡ Fun fact I also have interests on **Productivity** and **Leadership**
 
