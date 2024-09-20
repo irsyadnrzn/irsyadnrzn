@@ -23,7 +23,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,postgres,opencv,sklearn,tensorflow,pytorch,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,postgres,anaconda,opencv,sklearn,tensorflow,pytorch,vscode,git" />
   </a>
 </p>
 
