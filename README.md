@@ -10,9 +10,7 @@
   
  🎓 I’m a Freshgraduate from **Electronics and Instrumentations, Gadjah Mada University**
   
- 🌱 I’m currently learning **MLOps** and **GenerativeAI** to pursue my career on **AI Engineer**
-
- 💪 I'm currently working on personal project developing **facial expression recognition system**
+ 🌱 I’m currently learning **Data Wrangling** and **GenerativeAI** to pursue my career on **AI Engineer**
 
  ⚡ Fun fact I also have interests on **Productivity** and **Leadership**
 
